@@ -1,0 +1,13 @@
+C:\Users\Van\source\repos\Kursovaya_OS_last_c_sharp\bin\Debug\netcoreapp3.1\Kursovaya_OS_last_c_sharp.exe
+C:\Users\Van\source\repos\Kursovaya_OS_last_c_sharp\bin\Debug\netcoreapp3.1\Kursovaya_OS_last_c_sharp.deps.json
+C:\Users\Van\source\repos\Kursovaya_OS_last_c_sharp\bin\Debug\netcoreapp3.1\Kursovaya_OS_last_c_sharp.runtimeconfig.json
+C:\Users\Van\source\repos\Kursovaya_OS_last_c_sharp\bin\Debug\netcoreapp3.1\Kursovaya_OS_last_c_sharp.runtimeconfig.dev.json
+C:\Users\Van\source\repos\Kursovaya_OS_last_c_sharp\bin\Debug\netcoreapp3.1\Kursovaya_OS_last_c_sharp.dll
+C:\Users\Van\source\repos\Kursovaya_OS_last_c_sharp\bin\Debug\netcoreapp3.1\Kursovaya_OS_last_c_sharp.pdb
+C:\Users\Van\source\repos\Kursovaya_OS_last_c_sharp\obj\Debug\netcoreapp3.1\Kursovaya_OS_last_c_sharp.csproj.AssemblyReference.cache
+C:\Users\Van\source\repos\Kursovaya_OS_last_c_sharp\obj\Debug\netcoreapp3.1\Kursovaya_OS_last_c_sharp.AssemblyInfoInputs.cache
+C:\Users\Van\source\repos\Kursovaya_OS_last_c_sharp\obj\Debug\netcoreapp3.1\Kursovaya_OS_last_c_sharp.AssemblyInfo.cs
+C:\Users\Van\source\repos\Kursovaya_OS_last_c_sharp\obj\Debug\netcoreapp3.1\Kursovaya_OS_last_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Van\source\repos\Kursovaya_OS_last_c_sharp\obj\Debug\netcoreapp3.1\Kursovaya_OS_last_c_sharp.dll
+C:\Users\Van\source\repos\Kursovaya_OS_last_c_sharp\obj\Debug\netcoreapp3.1\Kursovaya_OS_last_c_sharp.pdb
+C:\Users\Van\source\repos\Kursovaya_OS_last_c_sharp\obj\Debug\netcoreapp3.1\Kursovaya_OS_last_c_sharp.genruntimeconfig.cache
